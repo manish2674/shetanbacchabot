@@ -37,7 +37,7 @@ bad_words = ["stupid", "idiot", "mad", "fool", "bakwas", "pagal","chutiya","tmkc
 
 bad_word_replies = [
     "Apni aukaat me reh! 😎",
-    "Mujhe gaali deke khush ho gaya? Baccha hai kya? 😈"
+    "Mujhe gaali deke khush ho gaya? Baccha hai kya? 😈",
     "tu khud he isiliye mujhe bol raha"
 ]
 
