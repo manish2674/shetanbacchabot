@@ -1,2 +1,1 @@
 ﻿# shetanbacchabot
-c d, fn
