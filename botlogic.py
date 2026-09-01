@@ -40,7 +40,7 @@ bad_word_replies = [
     "Mujhe gaali deke khush ho gaya? Baccha hai kya? 😈",
     "tu khud he isiliye mujhe bol raha"
 ]
-
+#logic behind the bot is 
 def shetan_baccha_bot(user_message):
     msg = user_message.lower()
     for keyword in special_replies:
