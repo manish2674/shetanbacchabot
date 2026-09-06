@@ -36,6 +36,7 @@ special_replies = {
 
 bad_words = ["stupid", "idiot", "mad", "fool", "bakwas", "pagal","chutiya","tmkc","lode","lodu","gand","kutta","useless","mad"]
 
+#bad replies section 
 bad_word_replies = [
     "Apni aukaat me reh! 😎",
     "Mujhe gaali deke khush ho gaya? Baccha hai kya? 😈",
