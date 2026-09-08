@@ -24,6 +24,7 @@ rude_replies = [
     "Mummy ko bula! 😜"
 ]
 
+# $pecial replies section 
 special_replies = {
     "hi": "Hi hi mat kar, kaam bol! 😏",
     "hello": "Hello hello ki zarurat nahi, seedha point pe aa! 😎",
