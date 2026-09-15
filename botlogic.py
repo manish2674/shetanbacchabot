@@ -61,7 +61,7 @@ def home():
         user_message = request.form["message"]
         bot_reply = shetan_baccha_bot(user_message)
     return render_template("index.html", bot_reply=bot_reply)
-
+###
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000)
 print('done')
