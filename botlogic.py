@@ -3,7 +3,7 @@ from flask import Flask, request, render_template
 import random
 
 app = Flask(__name__)
-
+#
 # list of replies 
 rude_replies = [
     "Abe chal na! Kya puch raha hai? 😏",
