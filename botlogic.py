@@ -4,7 +4,7 @@ import random
 
 app = Flask(__name__)
 
-### list of replies ##
+#list of replies 
 rude_replies = [
     "Abe chal na! Kya puch raha hai? 😏",
     "Bohot intelligent ban raha hai? 😎",
